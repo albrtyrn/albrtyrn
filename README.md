@@ -4,7 +4,7 @@ I’m Albert, a first-year at the University of Virginia’s School of Engineeri
 
 I’m interested about software development, data science, system design, and how to utilize these fields to create solutions that create a better world.
 
-In my freetime I love weightlifting, listening to Daniel Caesar, sipping on coffee or tea, and spending time with my community! 😁
+In my free time I love weightlifting, listening to Daniel Caesar, sipping on coffee or tea, and spending time with my community! 😁
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:albertyorn21@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-yorn)
