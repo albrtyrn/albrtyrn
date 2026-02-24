@@ -2,7 +2,7 @@
 
 I’m Albert, a first-year at the University of Virginia’s School of Engineering and Applied Science intending to major in Computer Science with a prospective minor in Systems Engineering.
 
-I’m interested about software development, data science, system design, and how to utilize these fields to create solutions that create a better world.
+I’m interested about software development, data science, system design, and how to utilize these fields to build solutions that encourage community.
 
 In my free time I love weightlifting, listening to Daniel Caesar, sipping on coffee or tea, and spending time with my community! 😁
 
