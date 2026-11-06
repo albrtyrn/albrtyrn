@@ -1,14 +1,12 @@
-# Hi, I'm Albert!
+# Hi, I'm Albert 👋
 
-My name is Albert, studying Computer Science in the School of Engineering & Applied Science at the University of Virginia.
-Currently, I am an AI/ML Fellow at Break Through Tech, focusing on engineering intelligent data pipelines, working with machine learning to solve real business problems, and AI-native agentic workflows in teams! In my free time I like weightlifting, drinking caffeine, and spending time with my support network.
+**CS @ University of Virginia · AI/ML Fellow @ Break Through Tech**
 
-## 🛠️ Tech Stack
-*   **Languages:** Python, TypeScript, JavaScript, Java, SQL, MATLAB, HTML/CSS
-*   **Frameworks:** React, Next.js, FastAPI, Node.js, Tailwind CSS, scikit-learn, pandas
-*   **Databases & Tools:** Supabase, PostgreSQL, Git, Linux, VS Code
+I'm a Computer Science student in UVA's School of Engineering & Applied Science. Right now I'm an AI/ML Fellow with Break Through Tech, working on a team machine learning project and spending a lot of time on data pipelines, applied ML, and agentic AI workflows.
+
+What I'm most into: backend, distributed systems, and the infrastructure behind AI/ML. Basically the stuff that keeps things fast and keeps them from falling over.
 
 ## 📫 Connect With Me
-*   **Portfolio:** [albertyorn.me](https://albertyorn.me)
-*   **LinkedIn:** [linkedin.com/in/albert-yorn](https://www.linkedin.com/in/albert-yorn)
-*   **Email:** albertyorn21@gmail.com
+- **Portfolio:** [albertyorn.me](https://albertyorn.me)
+- **LinkedIn:** [linkedin.com/in/albert-yorn](https://www.linkedin.com/in/albert-yorn)
+- **Email:** albertyorn21@gmail.com
