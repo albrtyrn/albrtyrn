@@ -4,7 +4,7 @@
 
 I'm a Computer Science student in UVA's School of Engineering & Applied Science. Right now I'm an AI/ML Fellow with Break Through Tech, working on a team machine learning project and spending a lot of time on data pipelines, applied ML, and agentic AI workflows.
 
-What I'm most into: backend, distributed systems, and the infrastructure behind AI/ML. Basically the stuff that keeps things fast and keeps them from falling over.
+What I'm most into: backend, distributed systems, and the infrastructure behind AI/ML.
 
 ## 📫 Connect With Me
 - **Portfolio:** [albertyorn.me](https://albertyorn.me)
